@@ -1,7 +1,7 @@
 # specify main menu items here
 
-- text: About
+- text: about
   url: /about
-- text: Contact
+- text: contact
   url: /contact
 
