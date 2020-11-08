@@ -9,7 +9,10 @@ section: about
 intro_paragraph: |
   What do you want to be when you grow up?
 ---
-As a junior studying Computer Science and Political Science at Alleghney College, TRANSITION
+I was lucky enough to find my passion for technology in high school. The next steps
+seemed simple: get a computer science degree and find a job. But as a junior
+studying computer science and political science at Allegheny College, I realize now
+it is much more complicated than I once thought.
 
 why i like CS
 
