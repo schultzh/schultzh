@@ -9,13 +9,12 @@ section: about
 intro_paragraph: |
   What do you want to be when you grow up?
 ---
-I was lucky enough to find my passion for technology in high school. The next steps
-seemed simple: get a computer science degree and find a job. But as a junior
-studying computer science and political science at Allegheny College, I realize now
+I was lucky to discover my passion for technology in high school. After that, the next steps
+seemed simple: earn a computer science degree and find a job. However, as a junior
+at Allegheny College, I realize now
 it is much more complicated than I once thought.
 
-why i like CS
+As an effective computer scientist, I possess a love for learning, a desire to explore complex systems, and
+an eagerness for problem solving. I hope to pursue a career in DevSecOps as it combines my interest in network systems and software development.
 
-want a job in DevSecOps
-
-but ultimately want to serve others
+serve others
