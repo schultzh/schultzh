@@ -6,7 +6,8 @@ meta_description: |
   output in the browser or in the generated file _site/about.html.
 permalink: /about
 section: about
-intro_paragraph: What do you want to be when you grow up?
+intro_paragraph: |
+  What do you want to be when you grow up?
 ---
 I was lucky to discover my passion for technology in high school. As a junior
 at Allegheny College, I am learning how my passion intersects with the world around me.
