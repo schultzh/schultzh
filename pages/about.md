@@ -7,7 +7,7 @@ meta_description: |
 permalink: /about
 section: about
 intro_paragraph: |
-  <div align="center"><b>What do you want to be when you grow up?</b></div>
+  What do you want to be when you grow up?
 ---
 I was lucky to discover my passion for technology in high school. As a junior
 at Allegheny College, I am learning how my passion intersects with the world around me.
