@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What do you want to <br> be when you grow up?
+title:
 meta_description: |
   This sets the meta description in the head of the page. You can watch the 
   output in the browser or in the generated file _site/about.html.
@@ -8,6 +8,7 @@ permalink: /about
 section: about
 intro_paragraph: |
   ![move in day picture](assets/img/uploads/move_in.png)
+  What do you want to be when you grow up?
 ---
 I was lucky to discover my passion for technology in high school. As a junior studying
 at Allegheny College, I am learning how that passion intersects with the world around me.
