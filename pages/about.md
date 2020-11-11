@@ -8,9 +8,9 @@ permalink: /about
 section: about
 intro_paragraph: |
   ![move in day picture](assets/img/uploads/move_in.png)
-  What do you want to be when you grow up?
+  <p style="text-align: center;"> What do you want to be when you grow up? </p>
 ---
-I was lucky to discover my passion for technology in high school. As a junior
+I was lucky to discover my passion for technology in high school. As a junior studying
 at Allegheny College, I am learning how that passion intersects with the world around me.
 
 As an effective computer scientist, I possess a love for learning and a desire to explore complex systems. I hope to pursue a career in DevSecOps to combine my interest in both network security and software development.
