@@ -7,6 +7,7 @@ meta_description: |
 permalink: /about
 section: about
 intro_paragraph: |
+  ![move in day picture](assets/img/uploads/IMG_0021.JPG)
   What do you want to be when you grow up?
 ---
 I was lucky to discover my passion for technology in high school. As a junior
