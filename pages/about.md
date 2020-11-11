@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What do you want to be when you grow up?
+title: What do you want to <br> be when you grow up?
 meta_description: |
   This sets the meta description in the head of the page. You can watch the 
   output in the browser or in the generated file _site/about.html.
