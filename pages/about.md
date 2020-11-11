@@ -10,8 +10,8 @@ intro_paragraph: |
   What do you want to be when you grow up?
 ---
 I was lucky to discover my passion for technology in high school. As a junior
-at Allegheny College, I am learning how my passion intersects with the world around me.
+at Allegheny College, I am learning how that passion intersects with the world around me.
 
 As an effective computer scientist, I possess a love for learning and a desire to explore complex systems. I hope to pursue a career in DevSecOps to combine my interest in both network security and software development.
 
-However, the answer the to above question is not DevOps Engineer. The answer is servant. The driving force behind my passion for computer science is the oppurtunity to better serve others through creative problem solving.
+However, the answer to the above question is not DevOps Engineer. The answer is servant. The driving force behind my passion for computer science is the oppurtunity to better serve others through creative problem solving.
