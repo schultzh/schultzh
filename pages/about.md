@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title:
 meta_description: |
   This sets the meta description in the head of the page. You can watch the 
