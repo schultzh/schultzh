@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title:
 meta_description: |
   This sets the meta description in the head of the page. You can watch the 
@@ -7,7 +7,6 @@ meta_description: |
 permalink: /about
 section: about
 intro_paragraph: |
-  ![move in day picture](assets/img/uploads/move_in.png)
   What do you want to be when you grow up?
 ---
 I was lucky to discover my passion for technology in high school. As a junior studying
@@ -16,3 +15,5 @@ at Allegheny College, I am learning how that passion intersects with the world a
 As an effective computer scientist, I possess a love for learning and a desire to explore complex systems. I hope to pursue a career in DevSecOps to combine my interest in both network security and software development.
 
 However, the answer to the above question is not DevOps Engineer. The answer is servant. The driving force behind my passion for computer science is the oppurtunity to better serve others through creative problem solving.
+
+[Learn more about my current projects!](https://github.com/GatorEducator/gatorgrader)
