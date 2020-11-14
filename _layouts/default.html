@@ -6,20 +6,25 @@ layout: compress
 <html data-current="{{ page.section }}" lang="en">
 
   {% include head.html %}
-
-  <body>
-
-    {% include header.html %}
-
-    <main>
-      <style>
+  <head>
+    <style>
       body {
       background-image: url('{{ site.baseurl }}/assets/images/home.jpeg');
       background-repeat: no-repeat;
       background-attachment: fixed;  
       background-size: cover;
       }
-    </style>
+      </style>
+  </head>
+
+  <body>
+
+    {% include header.html %}
+
+    <main>
+
+      {{ content }}
+      
     </main>
 
     {% include footer.html %}
