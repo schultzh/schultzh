@@ -1,9 +1,10 @@
 ---
 layout: contact
-title: Contact
-permalink: /connect
+title:
+permalink: /contact
 section: contact
 intro_paragraph: |
+Want to connect with me?
 ---
 
-**Send us a message**
+**Send me an email!**
