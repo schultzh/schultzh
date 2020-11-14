@@ -2,7 +2,7 @@
 layout: connect
 title:
 permalink: /connect
-section: contact
+section:
 intro_paragraph: |
 
 ---
