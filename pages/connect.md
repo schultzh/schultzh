@@ -1,11 +1,9 @@
 ---
 layout: connect
-title:
+title: I'd love to connect with you!
 permalink: /connect
 section:
 intro_paragraph: |
-
-    I'd love to connect with you! Check out the links below learn more about my current work.
-
+ Check out the links below learn more about my current work.
 ---
 
