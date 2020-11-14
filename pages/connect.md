@@ -1,7 +1,7 @@
 ---
 layout: contact
 title:
-permalink: /contact
+permalink: /connect
 section: contact
 intro_paragraph: |
 Want to connect with me?
