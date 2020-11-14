@@ -8,7 +8,7 @@ permalink: /about
 section: about
 intro_paragraph: |
   ![chinaEL2019](assets/img/uploads/china2019.jpg)
-  <center> What do you want to be when you grow up? </center>
+  <center><b> What do you want to be when you grow up? </b></center>
 ---
 I was lucky to discover my passion for technology in high school.
 I am currently learning how that passion intersects with the world around me
