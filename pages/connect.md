@@ -4,7 +4,6 @@ title:
 permalink: /connect
 section: contact
 intro_paragraph: |
-Want to connect with me?
+I'd love to hear from you! Use the form below to send me an email.
 ---
 
-**Send me an email!**
