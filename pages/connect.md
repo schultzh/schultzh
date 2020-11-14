@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: connect
 title:
 permalink: /connect
 section: contact
