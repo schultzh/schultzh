@@ -1,23 +1,19 @@
 ---
 layout: default
 ---
+<head>
+  <style>
+    body {
+    background-image: url('{{ site.baseurl }}/assets/img/home.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    }
+    </style>
+</head>
 
 <h2>{{ page.title }}</h2>
 
   {% include page-intro.html %}
 
   {{ content }}
-
-  <section>
-
-    <h3>Recent posts from the blog</h3>
-
-    <ul>
-      {% for post in site.posts limit:3 %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-      {% endfor %}
-    </ul>
-
-  </section>
