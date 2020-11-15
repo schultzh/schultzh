@@ -1,7 +1,5 @@
 # specify main menu items here
 
 - text: about
-  url: /about 
-- text: connect
-  url: /connect
+  url: /about
 
