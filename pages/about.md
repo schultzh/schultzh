@@ -8,8 +8,9 @@ permalink: /about
 section: about
 intro_paragraph: |
   ![greatwall](assets/img/uploads/greatwall.jpg)
-  What do you want to be when you grow up?
 ---
+### What do you want to be when you grow up?
+
 I was lucky to discover my passion for technology in high school.
 I am currently learning how that passion intersects with the world around me
 while studying both Computer Science and Political Science at Allegheny College in Meadville, PA.
