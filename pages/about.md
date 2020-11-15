@@ -17,5 +17,3 @@ while studying both Computer Science and Political Science at Allegheny College 
 As an effective computer scientist, I possess a love for learning and a desire to explore complex systems. I hope to pursue a career in DevSecOps to concentrate on network security and software development.
 
 However, the answer to the above question is not DevOps Engineer. The answer is servant. My passion for computer science is driven by the oppurtunity to better serve others through creative problem solving.
-
-To connect with me, check out the links below!
