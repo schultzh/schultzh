@@ -7,7 +7,7 @@ meta_description: |
 permalink: /about
 section: about
 intro_paragraph: |
-  ![greatwall](assets/img/uploads/greatwall.jpg)
+  ![greatwallframe](assets/img/uploads/greatwallfr.jpg)
 ---
 ### What do you want to be when you grow up?
 
