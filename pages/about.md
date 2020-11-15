@@ -7,7 +7,7 @@ meta_description: |
 permalink: /about
 section: about
 intro_paragraph: |
-  ![chinaEL2019](assets/img/uploads/china2019.jpg)
+  ![greatwall](assets/img/uploads/greatwall.jpg)
   What do you want to be when you grow up?
 ---
 I was lucky to discover my passion for technology in high school.
