@@ -1,4 +1,4 @@
-[![Analytics](https://ga-beacon.appspot.com/G-6VWZ053GTP/github.com/Naereen/badges/README.md)](https://GitHub.com/Naereen/badges/)
+[![Analytics](https://ga-beacon.appspot.com/G-6VWZ053GTP/github.com/Naereen/badges/README.md)](https://GitHub.com/Naereen/badges/) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 
 # Professional Portfolio Website
 
