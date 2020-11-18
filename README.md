@@ -3,6 +3,8 @@
 This website serves as an information hub for my professional portfolio as a growing student of computer science. It contains a personal statement and links to my resume and current projects. I hope to use this
 website to better connect with future employers.
 
+The webiste url is as follows: https://schultzh.netlify.app
+
 ## Built and Deployed with Netlify
 
 **A really simple Jekyll template for creating a fast, static website on Netlify with
