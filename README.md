@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4223bbb5-dcd2-4015-8f6e-6c3e903ad8e9/deploy-status)](https://app.netlify.com/sites/schultzh/deploys)[![Analytics](https://ga-beacon.appspot.com/G-6VWZ053GTP/github.com/Naereen/badges/README.md)](https://GitHub.com/Naereen/badges/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4223bbb5-dcd2-4015-8f6e-6c3e903ad8e9/deploy-status)](https://app.netlify.com/sites/schultzh/deploys)  [![Analytics](https://ga-beacon.appspot.com/G-6VWZ053GTP/github.com/Naereen/badges/README.md)](https://GitHub.com/Naereen/badges/)
 
 # Professional Portfolio Website
 
