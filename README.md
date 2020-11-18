@@ -1,9 +1,10 @@
 # Professional Portfolio Website
 
 This website serves as an information hub for my professional portfolio as a growing student of computer science. It contains a personal statement and links to my resume and current projects. I hope to use this
-website to better connect with future employers.
+website to better connect with future employers. The site is connected to Google Analytics to help me optomize the site in the future.
 
 The webiste url is as follows: https://schultzh.netlify.app
+
 
 ## Built and Deployed with Netlify
 
