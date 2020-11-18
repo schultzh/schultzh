@@ -1,10 +1,12 @@
-[![Analytics](https://ga-beacon.appspot.com/G-6VWZ053GTP/github.com/Naereen/badges/README.md)](https://GitHub.com/Naereen/badges/) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4223bbb5-dcd2-4015-8f6e-6c3e903ad8e9/deploy-status)](https://app.netlify.com/sites/schultzh/deploys)[![Analytics](https://ga-beacon.appspot.com/G-6VWZ053GTP/github.com/Naereen/badges/README.md)](https://GitHub.com/Naereen/badges/)
 
 # Professional Portfolio Website
 
 This website serves as an information hub for my professional portfolio as a growing student of computer science. It contains a personal statement and links to my resume and current projects.
 
 The webiste url is as follows: https://schultzh.netlify.app
+
+Data analytics can be accessed here: https://analytics.google.com/analytics/web/provision/#/a183435052p253376842/admin/streams/table/
 
 
 ## Built and Deployed with Netlify
