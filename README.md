@@ -6,7 +6,7 @@ https://schultzh.netlify.app
 
 This website acts as an information hub for my professional portfolio as a third year computer science student preparing to enter the real world. Content includes a personal statement, my resume, and current projects. More content can and will be added as needed to show growth as a student and computer scientist.
 
-I've connected the site [Google Analytics]https://analytics.google.com/analytics/web/provision/#/a183435052p253376842/admin/streams/table/ to better understand who my website is reaching and help optimize it in the future.
+I've connected the site [Google Analytics](https://analytics.google.com/analytics/web/provision/#/a183435052p253376842/admin/streams/table/) to better understand who my website is reaching and help optimize it in the future.
 
 
 ## Built and Deployed with Netlify
